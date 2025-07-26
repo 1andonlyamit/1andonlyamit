@@ -23,3 +23,8 @@ BCA, MS University of Baroda (2021–2024, CGPA: 8.2)
 🌐 Let’s Connect
 📫 amit@suthar.co.in | 🔗 https://www.linkedin.com/in/1andonlyamit
 ⚡ Let’s code something amazing!
+
+
+Project Links:
+Quiz 24 Android App: https://quiz24-website.vercel.app/
+Rayah Productions Portfolio Website: https://rayah-productions-tzib.vercel.app/
